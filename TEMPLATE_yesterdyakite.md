@@ -1,5 +1,4 @@
-## project explain
-이거 대충 뭔지 간단하게 적기
+## project explin
 
 ## Screenshots
 캡쳐화면들
